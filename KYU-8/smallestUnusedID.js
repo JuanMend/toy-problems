@@ -11,3 +11,5 @@ function nextId(ids) {
 	}
 	return ids.length;
 }
+
+console.log(nextId([0, 1, 2, 3]));
